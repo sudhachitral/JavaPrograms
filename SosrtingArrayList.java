@@ -1,5 +1,5 @@
 import java.util.*;
-class SortingArrayList
+class SosrtingArryList
 {
     public static void main(String args[])
     {
